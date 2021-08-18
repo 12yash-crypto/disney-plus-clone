@@ -88,21 +88,7 @@ body{
     font-weight: 700;
     text-decoration: none;
 }
-Output
-Capture
 
-Now let's make slider. We'll create these slides with JS but for styling purpose just create one for now in HTML.
-div class="carousel-container">
-    <div class="carousel">
-        <div class="slider">
-            <div class="slide-content">
-                <h1 class="movie-title">loki</h1>
-                <p class="movie-des">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit saepe eius ratione nostrum mollitia explicabo quae nam pariatur. Sint, odit?</p>
-            </div>
-            <img src="images/slider 1.PNG" alt="">
-        </div>
-    </div>
-</div>
 .carousel-container{
     position: relative;
     width: 100%;
